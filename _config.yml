@@ -1,8 +1,6 @@
 title: Audio sample page
-author: ondal90
-email: syj90@xinapse.ai
-description: > # this means to ignore newlines until "show_exerpts:"
-  update my audio samples.
+email: "syj90@xinapse.ai"
+description: "update my audio samples."
 url: "http://ondal90.github.io"
 author:
 name: "Shin Y.J"
