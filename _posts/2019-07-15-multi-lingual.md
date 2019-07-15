@@ -15,6 +15,6 @@ categories: xinapse TTS
 <h2>Kss to english Samples</h2>
 We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.<br>
 <b>Baseline</b>
-<audio src="/audio_samples/Kss_baseline2.wav" controls></audio>
+<audio src="/audio_samples/kss_baseline2.wav" controls></audio>
 <b>Advanced</b> 
 <audio src="/audio_samples/kss_new.wav" controls></audio>
