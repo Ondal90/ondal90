@@ -1,1 +1,8 @@
 theme: jekyll-theme-tactile
+title : Test
+description : audio sample upload.
+url: "http://ondal90.github.io"
+author:
+  name:영준
+  email:syj90@xinapse.ai
+  url: "http://ondal90.github.io"
