@@ -5,9 +5,9 @@ description: > # this means to ignore newlines until "show_exerpts:"
   update my audio samples.
 url: "http://ondal90.github.io"
 author:
-  name: "Shin Y.J"
-  email: "syj90@xinapse.ai"
-  url:"http://ondal90.github.io"
+name: "Shin Y.J"
+email: "syj90@xinapse.ai"
+url:"http://ondal90.github.io"
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /texture
 
