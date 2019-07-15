@@ -7,9 +7,9 @@ categories: xinapse TTS
 
 <h2>LJ to Kor Samples</h2>
 북한의 리더 김정은을 만날 때 쓰려고 이 기술을 준비했습니다. 정상회담이 기대됩니다. 곧 만납시다.<br>
-Baseline 
+<b>Baseline</b> 
 <audio src="/audio_samples/LJ_Baseline2.wav" controls></audio> <br> 
-Advanced 
+<b>Advanced</b>
 <audio src="/audio_samples/LJ_new.wav" controls></audio><br>
 
 <h2>Kss to english Samples</h2>
