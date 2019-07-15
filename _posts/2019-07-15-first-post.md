@@ -13,3 +13,4 @@ Jekyll also offers powerful support for code snippets:
 def print_hi(name):
   print("hello", name)
 print_hi('Tom')
+[elephant](/audio_samples/LJ_new.wav)
