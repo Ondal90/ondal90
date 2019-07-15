@@ -7,7 +7,7 @@ author:
   email: "syj90@xinapse.ai"
   url: "http://ondal90.github.io"
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture
+baseurl: ""
 remote_theme: thelehhman/texture
 
 # Minima date format
