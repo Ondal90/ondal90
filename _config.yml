@@ -1,11 +1,3 @@
-title: "Audio sample page"
-email: "syj90@xinapse.ai"
-description: "update my audio samples."
-url: "http://ondal90.github.io"
-author:
-  name: "Shin Y.J."
-  email: "syj90@xinapse.ai"
-  url: "http://ondal90.github.io"
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: ""
 remote_theme: thelehhman/texture
@@ -17,7 +9,14 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
+  title: Audio sample page
+  email: "syj90@xinapse.ai"
+  description: "update my audio samples."
+  url: "http://ondal90.github.io"
+  author:
+  name: "Shin Y.J."
+  email: "syj90@xinapse.ai"
+  url: "http://ondal90.github.io"
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   style: black
