@@ -14,10 +14,8 @@ texture:
   description: "update my audio samples."
   url: "http://ondal90.github.io"
   author:
-  name: "Shin Y.J."
-  email: "syj90@xinapse.ai"
-  url: "http://ondal90.github.io"
-  tagline: A.I developer
+    name: "Shin Y.J."
+    tagline: A.I developer
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
