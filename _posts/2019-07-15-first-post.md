@@ -2,16 +2,12 @@
 title: "Welcome to Jekyll!"
 date: 2019-07-15 15:40:40 -0400
 categories: jekyll update
----
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+-
+Audio Samples
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-[elephant](/audio_samples/LJ_new.wav)
-<audio src="/audio_samples/LJ_new.wav" controls></audio><br>
+<h2>LJ to Kor Samples</h2>
+북한의 리더 김정은을 만날 때 쓰려고 이 기술을 준비했습니다. 정상회담이 기대됩니다. 곧 만납시다.<br>
+<audio src="/audio_samples/LJ_new.wav" controls></audio><br><audio src="/audio_samples/LJ_Baseline2.wav" controls></audio><br>
+<h2>Kss to english Samples</h2>
+We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.
+<audio src="/audio_samples/Kss_Baseline.wav" controls></audio><br> <audio src="/audio_samples/kss_new.wav" controls></audio><br>
