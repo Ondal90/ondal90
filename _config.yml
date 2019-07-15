@@ -8,6 +8,7 @@ author:
   url: "http://ondal90.github.io"
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /texture
+remote_theme: thelehhman/texture
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
