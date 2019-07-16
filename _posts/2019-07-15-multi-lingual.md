@@ -38,52 +38,52 @@ categories: xinapse TTS
 <hr>
 <h3 align="left">1. Original language</h3>
 <blockquote>
-<table align="left">
-  <caption align="left">1-1. Eng</caption>
-  <tr>      
-    <td align="center">Baseline </td>
-    <td align="center">Advanced </td>
-  </tr>
-  <tr>
-    <td align="center"><audio src="/audio_samples/LJ_Baseline_Eng.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/LJ_New_Eng.wav" controls=""></audio></td>
-  </tr>
-</table>
-<table align="left">
-  <caption align="left">1-2. Kor</caption>
-  <tr>      
-    <td align="center">Baseline </td>
-    <td align="center">Advanced </td>
-  </tr>
-  <tr>
-    <td align="center"><audio src="/audio_samples/KSS_Baseline_Kor.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/KSS_New_Kor.wav" controls=""></audio></td>
-  </tr>
-</table>
+  <table align="left">
+    <caption align="left">1-1. Eng</caption>
+    <tr>      
+      <td align="center">Baseline </td>
+      <td align="center">Advanced </td>
+    </tr>
+    <tr>
+      <td align="center"><audio src="/audio_samples/LJ_Baseline_Eng.wav" controls=""></audio></td>
+      <td align="center"><audio src="/audio_samples/LJ_New_Eng.wav" controls=""></audio></td>
+    </tr>
+  </table>
+  <table align="left">
+    <caption align="left">1-2. Kor</caption>
+    <tr>      
+      <td align="center">Baseline </td>
+      <td align="center">Advanced </td>
+    </tr>
+    <tr>
+      <td align="center"><audio src="/audio_samples/KSS_Baseline_Kor.wav" controls=""></audio></td>
+      <td align="center"><audio src="/audio_samples/KSS_New_Kor.wav" controls=""></audio></td>
+    </tr>
+  </table>
 </blockquote>
 <hr>
 <h3 align="left">2. Transfer language</h3>
 <blockquote>
-<table align="left">
-  <caption align="left">1-1. Eng to Kor</caption>
-  <tr>      
-    <td align="center">Baseline </td>
-    <td align="center">Advanced </td>
-  </tr>
-  <tr>
-    <td align="center"><audio src="/audio_samples/LJ_Baseline_Kor.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/LJ_New_Kor.wav" controls=""></audio></td>
-  </tr>
-</table>
-<table align="left">
-  <caption align="left">1-2. Kor to Eng</caption>
-  <tr>      
-    <td align="center">Baseline </td>
-    <td align="center">Advanced </td>
-  </tr>
-  <tr>
-    <td align="center"><audio src="/audio_samples/KSS_Baseline_Eng.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/KSS_New_Eng.wav" controls=""></audio></td>
-  </tr>
-</table>
+  <table align="left">
+    <caption align="left">1-1. Eng to Kor</caption>
+    <tr>      
+      <td align="center">Baseline </td>
+      <td align="center">Advanced </td>
+    </tr>
+    <tr>
+      <td align="center"><audio src="/audio_samples/LJ_Baseline_Kor.wav" controls=""></audio></td>
+      <td align="center"><audio src="/audio_samples/LJ_New_Kor.wav" controls=""></audio></td>
+    </tr>
+  </table>
+  <table align="left">
+    <caption align="left">1-2. Kor to Eng</caption>
+    <tr>      
+      <td align="center">Baseline </td>
+      <td align="center">Advanced </td>
+    </tr>
+    <tr>
+      <td align="center"><audio src="/audio_samples/KSS_Baseline_Eng.wav" controls=""></audio></td>
+      <td align="center"><audio src="/audio_samples/KSS_New_Eng.wav" controls=""></audio></td>
+    </tr>
+  </table>
 </blockquote>
