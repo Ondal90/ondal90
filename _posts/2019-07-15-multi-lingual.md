@@ -13,7 +13,7 @@ categories: xinapse TTS
       <caption align="left">Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.</caption>
       <tr>
         <td align="center" width=400>Baseline </td>
-        <td align="center" width=400>Advanced </td>
+        <td align="center" width=500>Advanced </td>
       </tr>
       <tr>
           <td align="center" width=400><audio src="/audio_samples/LJ_Baseline_Eng.wav" controls=""></audio></td>
