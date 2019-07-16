@@ -36,16 +36,27 @@ categories: xinapse TTS
 </head>
 <h3>본 샘플들은 연구용입니다.</h3>
 <hr>
-<h2 align="left">1. Original language</h2>
+<h3 align="left">1. Original language</h3>
+<blockquote>
 <table align="left">
-  <caption align="left">1. Eng to Eng </caption>
+  <caption align="left">1-1. Eng</caption>
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
   </tr>
   <tr>
-    <td align="center"><audio src="/audio_samples/LJ_Baseline_Kor.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/LJ_New_Kor.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/LJ_Baseline_Eng.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/LJ_New_Eng.wav" controls=""></audio></td>
+  </tr>
+    <caption align="left">1-2. Kor</caption>
+  <tr>      
+    <td align="center">Baseline </td>
+    <td align="center">Advanced </td>
+  </tr>
+  <tr>
+    <td align="center"><audio src="/audio_samples/KSS_Baseline_Kor.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/KSS_New_Kor.wav" controls=""></audio></td>
   </tr>
 </table>
+</blockquote>
 
