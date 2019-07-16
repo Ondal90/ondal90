@@ -7,13 +7,15 @@ categories: xinapse TTS
 <h3>본 샘플들은 연구용입니다.</h3>
 <hr>
 <h2 align="left">1. Speaker embedding at differen position</h2>
-<table align="left">
-  <tr>      
-    <td>Speaker embedding at encoder (SE-ENC)</td>
-    <td>Speaker embedding at decoder (SE-DEC)</td>
-  </tr>   
-  <tr>
-    <td><audio src="samples/SE-ENC/cn/000527.wav" controls=""></audio></td>
-    <td><audio src="samples/SE-DEC/cn/000527.wav" controls=""></audio></td>
-  </tr>
-</table>
+<div style="height: 420px">
+  <table align="left">
+    <tr>      
+      <td align="center">Speaker embedding at encoder (SE-ENC)</td>
+      <td align="center">Speaker embedding at decoder (SE-DEC)</td>
+    </tr>   
+    <tr>
+      <td align="center"><audio src="samples/SE-ENC/cn/000527.wav" controls=""></audio></td>
+      <td align="center"><audio src="samples/SE-DEC/cn/000527.wav" controls=""></audio></td>
+    </tr>
+  </table>
+</div>
