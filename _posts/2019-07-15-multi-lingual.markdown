@@ -1,6 +1,6 @@
 ---
-Title: "multi-lingual"
 layout: post
+Title: "multi-lingual"
 date: 2019-07-15 15:40:40 -0400
 categories: xinapse TTS
 ---
