@@ -2,8 +2,7 @@
 Title: "multi-lingual"
 date: 2019-07-15 15:40:40 -0400
 categories: xinapse TTS
--
-
+---
 <br><h2>본 샘플들은 연구용입니다.</h2>
 <hr>
 <h2 align="left">1. Speaker embedding at differen position</h3>
