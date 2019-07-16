@@ -48,7 +48,7 @@ categories: xinapse TTS
     <td align="center"><audio src="/audio_samples/LJ_New_Eng.wav" controls=""></audio></td>
   </tr>
 </table>
-<table align="left">
+<table>
   <caption align="left">1-2. Kor</caption>
   <tr>      
     <td align="center">Baseline </td>
@@ -60,7 +60,7 @@ categories: xinapse TTS
   </tr>
 </table>
 <h3 align="left">2. Transfer language</h3>
-<table align="left">
+<table>
   <caption align="left">2-1. Eng to Kor</caption>
   <tr>      
     <td align="center">Baseline </td>
