@@ -4,7 +4,6 @@ date: 2019-07-15 15:40:40 -0400
 categories: xinapse TTS
 -
 <br><h2>본 샘플들은 연구용입니다.</h2>
-
   <h2 align="left">Original language</h2>
   <div style="height: 420px">
     <blockquote>
@@ -33,7 +32,8 @@ categories: xinapse TTS
             </tr>
       </table>
     </blockquote>
-
+  </div>
+                
   <h2 align="left">transfer language</h2>
   <div style="height: 420px">
     <blockquote>
