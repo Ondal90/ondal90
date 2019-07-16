@@ -48,7 +48,9 @@ categories: xinapse TTS
     <td align="center"><audio src="/audio_samples/LJ_Baseline_Eng.wav" controls=""></audio></td>
     <td align="center"><audio src="/audio_samples/LJ_New_Eng.wav" controls=""></audio></td>
   </tr>
-    <caption align="left">1-2. Kor</caption>
+</table>
+<table align="left">
+  <caption align="left">1-2. Kor</caption>
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
@@ -72,7 +74,9 @@ categories: xinapse TTS
     <td align="center"><audio src="/audio_samples/LJ_Baseline_Kor.wav" controls=""></audio></td>
     <td align="center"><audio src="/audio_samples/LJ_New_Kor.wav" controls=""></audio></td>
   </tr>
-    <caption align="left">1-2. Kor to Eng</caption>
+</table>
+<table align="left">
+  <caption align="left">1-2. Kor to Eng</caption>
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
