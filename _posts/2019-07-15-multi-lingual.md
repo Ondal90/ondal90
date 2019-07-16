@@ -5,8 +5,8 @@ categories: xinapse TTS
 -
 <br><h2>본 샘플들은 연구용입니다.</h2>
 
-<h3>LJ to Kor Samples</h3>
-We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.
+<h3>LJ Samples</h3>
+<I>Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.</I><br>
 <b>Baseline</b> 
 <audio src="/audio_samples/LJ_Baseline_Eng.wav" controls></audio>
 <b>Advanced</b>
@@ -17,8 +17,8 @@ We present a multispeaker, multilingual text-to-speech synthesis model based on 
 <b>Advanced</b>
 <audio src="/audio_samples/LJ_New_Kor.wav" controls></audio>
 
-<h3>Kss to english Samples</h3>
-We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.<br>
+<h3>KSS Samples</h3>
+<I>Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.</I><br>
 <b>Baseline</b>
 <audio src="/audio_samples/KSS_Baseline_Eng.wav" controls></audio>
 <b>Advanced</b> 
