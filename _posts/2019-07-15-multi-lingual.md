@@ -9,7 +9,7 @@ categories: xinapse TTS
   <blockquote>
     <table align="left">
       <h3 align="left">LJ Speech (Eng to Eng)</h3>
-      <caption align="left"><I>Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.</I></caption>
+      <caption align="left">Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.</caption>
       <tr>      
         <td align="center" width=400>Baseline </td>
         <td align="center" width=400>Advanced </td>
@@ -21,7 +21,7 @@ categories: xinapse TTS
     </table>
     <table align="left">
       <h3 align="left">KSS Speech (Kor to Kor)</h3>
-      <caption align="left"><I>제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요? </I></caption>
+      <caption align="left">제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</caption>
       <tr>      
         <td align="center" width=400>Baseline </td>
         <td align="center" width=400>Advanced </td>
