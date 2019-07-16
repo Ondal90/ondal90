@@ -7,7 +7,6 @@ categories: xinapse TTS
 <hr>
 <h2 align="left">1. Speaker embedding at differen position</h3>
 <div style="height: 420px">
-  <blockquote> 
     <table align="left">
       <h3 align="left">Mandarin Samples</h3>
       <caption align="left">(1). 这儿夏天雨水很多，可是秋天很少雨。</caption>
@@ -42,5 +41,4 @@ categories: xinapse TTS
           <td align="center" width=400><audio src="samples/SE-DEC/cn/004834.wav" controls=""></audio></td>
       </tr>      
     </table>    
-  </blockquote>
 </div> 
