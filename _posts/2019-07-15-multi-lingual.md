@@ -61,11 +61,10 @@ categories: xinapse TTS
     </tr>
   </table>
 </blockquote>
-<hr>
 <h3 align="left">2. Transfer language</h3>
 <blockquote>
   <table align="left">
-    <caption align="left">1-1. Eng to Kor</caption>
+    <caption align="left">2-1. Eng to Kor</caption>
     <tr>      
       <td align="center">Baseline </td>
       <td align="center">Advanced </td>
@@ -76,7 +75,7 @@ categories: xinapse TTS
     </tr>
   </table>
   <table align="left">
-    <caption align="left">1-2. Kor to Eng</caption>
+    <caption align="left">2-2. Kor to Eng</caption>
     <tr>      
       <td align="center">Baseline </td>
       <td align="center">Advanced </td>
