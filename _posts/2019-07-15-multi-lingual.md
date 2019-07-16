@@ -43,7 +43,7 @@ categories: xinapse TTS
     <td align="center" width=400>Advanced </td>
   </tr>
   <tr>
-      <td align="center" width=400><audio src="/audio_samples/LJ_Baseline_Kor.wav" controls=""></audio></td>
-      <td align="center" width=400><audio src="/audio_samples/LJ_New_Kor.wav" controls=""></audio></td>
+    <td align="center" width=400><audio src="/audio_samples/LJ_Baseline_Kor.wav" controls=""></audio></td>
+    <td align="center" width=400><audio src="/audio_samples/LJ_New_Kor.wav" controls=""></audio></td>
   </tr>
 </table>
