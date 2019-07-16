@@ -39,6 +39,9 @@ categories: xinapse TTS
 <h3 align="left">1. Original language</h3>
 <table>
   <caption align="left">1-1. Eng</caption>
+  <tr>
+    <td>Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.</td>
+  </tr>
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
@@ -50,6 +53,9 @@ categories: xinapse TTS
 </table>
 <table>
   <caption align="left">1-2. Kor</caption>
+  <tr>
+    <td>Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</td>
+  </tr>
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
@@ -62,6 +68,9 @@ categories: xinapse TTS
 <h3 align="left">2. Transfer language</h3>
 <table>
   <caption align="left">2-1. Eng to Kor</caption>
+  <tr>
+    <td>Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</td>
+  </tr>
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
@@ -73,6 +82,9 @@ categories: xinapse TTS
 </table>
 <table align="left">
   <caption align="left">2-2. Kor to Eng</caption>
+  <tr>
+    <td>Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.</td>
+  </tr>
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
