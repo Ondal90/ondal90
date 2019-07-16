@@ -1,7 +1,9 @@
-<html lang="en">
+---
+Title: "multi-lingual"
+date: 2019-07-15 15:40:40 -0400
+categories: xinapse TTS
+---
 <head>
-  <meta charset="utf-8">
-  <title>Audio samples from "Building a mixed-lingual neural TTS system with only monolingual data"</title>
   <style>
     body {
       margin: 0;
@@ -9,7 +11,6 @@
       background: #fff;
       color: #111;
       font-size: 15px;
-      font-family: sans-serif;
       font-weight: 400;
       line-height: 1.8;
       overflow-x: hidden;
@@ -33,11 +34,7 @@
     }
   </style>
 </head>
----
-Title: "multi-lingual"
-date: 2019-07-15 15:40:40 -0400
-categories: xinapse TTS
----
+
 
 <br>
 <h3>본 샘플들은 연구용입니다.</h3>
