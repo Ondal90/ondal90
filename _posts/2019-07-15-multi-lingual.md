@@ -10,7 +10,6 @@ categories: xinapse TTS
   <blockquote>
     <table align="left">
       <h3 align="left">Mandarin Samples</h3>
-      <caption align="left">(1). 这儿夏天雨水很多，可是秋天很少雨。</caption>
       <tr>      
         <td align="center" width=400>Speaker embedding at encoder (SE-ENC)</td>
         <td align="center" width=500>Speaker embedding at decoder (SE-DEC)</td>
