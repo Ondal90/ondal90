@@ -1,20 +1,3 @@
-<head>
-  <meta charset="utf-8">
-  <title>Audio samples from "Building a mixed-lingual neural TTS system with only monolingual data"</title>
-  <style>
-    audio {
-      width: 250px;
-      margin-right: 10px;
-    }
-    caption {
-      text-align: left;
-      font-size: 1.0em;
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
-<div style="display: block; margin: 0 auto; width: 80%;">
 ---
 Title: "multi-lingual"
 date: 2019-07-15 15:40:40 -0400
