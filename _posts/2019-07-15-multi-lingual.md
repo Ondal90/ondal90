@@ -1,11 +1,38 @@
-<style>
-  table, th, td {
-    border: 1px solid #bcbcbc;
-  }
-  table {
-    width: 600px;
-  }
-</style>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Audio samples from "Building a mixed-lingual neural TTS system with only monolingual data"</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 10px 1px;
+      background: #fff;
+      color: #111;
+      font-size: 15px;
+      font-family: sans-serif;
+      font-weight: 400;
+      line-height: 1.8;
+      overflow-x: hidden;
+      -webkit-font-smoothing: antialiased;
+    }
+    audio {
+      width: 250px;
+      margin-right: 10px;
+    }
+    .sample {
+      font-size: 0.9em;
+      font-style: italic;
+      border: 1px solid #ddd;
+      padding: 1em;
+      margin-bottom: 1em;
+    }
+    caption {
+      text-align: left;
+      font-size: 1.0em;
+      font-weight: bold;
+    }
+  </style>
+</head>
 ---
 Title: "multi-lingual"
 date: 2019-07-15 15:40:40 -0400
