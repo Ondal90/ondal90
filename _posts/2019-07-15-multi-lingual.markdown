@@ -4,6 +4,7 @@ Title: "multi-lingual"
 date: 2019-07-15 15:40:40 -0400
 categories: xinapse TTS
 ---
+character embedding + attention 수정 !!
 
 <h3>본 샘플들은 연구용입니다.</h3>
 <hr>
