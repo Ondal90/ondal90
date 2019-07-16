@@ -9,16 +9,16 @@ categories: xinapse TTS
 <div style="height: 420px">
   <blockquote>
     <table align="left">
-      <h3 align="left">LJ Speech (Eng to Eng)</h3>
-      <caption align="left">Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.</caption>
+      <h3 align="left">Mandarin Samples</h3>
+      <caption align="left">(1). 这儿夏天雨水很多，可是秋天很少雨。</caption>
+      <tr>      
+        <td align="center" width=400>Speaker embedding at encoder (SE-ENC)</td>
+        <td align="center" width=500>Speaker embedding at decoder (SE-DEC)</td>
+      </tr>   
       <tr>
-        <td align="center" width=400>Baseline </td>
-        <td align="center" width=500>Advanced </td>
+          <td align="center" width=400><audio src="samples/SE-ENC/cn/000527.wav" controls=""></audio></td>
+          <td align="center" width=400><audio src="samples/SE-DEC/cn/000527.wav" controls=""></audio></td>
       </tr>
-      <tr>
-          <td align="center" width=400><audio src="/audio_samples/LJ_Baseline_Eng.wav" controls=""></audio></td>
-          <td align="center" width=400><audio src="/audio_samples/LJ_New_Eng.wav" controls=""></audio></td>
-      </tr>
-    </table>
+   </table>
   </blockquote>
 </div>
