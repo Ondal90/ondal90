@@ -27,12 +27,12 @@ categories: xinapse TTS
 <div style="height: 420px">
   <table align="left">
     <tr>      
-      <td align="center">Speaker embedding at encoder (SE-ENC)</td>
-      <td align="center">Speaker embedding at decoder (SE-DEC)</td>
-    </tr>   
+      <td align="center" width=400>Baseline </td>
+      <td align="center" width=400>Advanced </td>
+    </tr>
     <tr>
-      <td align="center"><audio src="samples/SE-ENC/cn/000527.wav" controls=""></audio></td>
-      <td align="center"><audio src="samples/SE-DEC/cn/000527.wav" controls=""></audio></td>
+        <td align="center" width=400><audio src="/audio_samples/LJ_Baseline_Kor.wav" controls=""></audio></td>
+        <td align="center" width=400><audio src="/audio_samples/LJ_New_Kor.wav" controls=""></audio></td>
     </tr>
   </table>
 </div>
