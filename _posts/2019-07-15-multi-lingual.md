@@ -50,7 +50,7 @@ categories: xinapse TTS
     <td align="center"><audio src="/audio_samples/LJ_New_Eng.wav" controls=""></audio></td>
   </tr>
 </table>
-  1-2. Kor
+  1-2. Kor<br>
     Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?
 <table>
   <tr>      
@@ -63,7 +63,7 @@ categories: xinapse TTS
   </tr>
 </table>
 <h3 align="left">2. Transfer language</h3>
-  2-1. Eng to Kor
+  2-1. Eng to Kor<br>
     Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?
 <table>
   <tr>      
@@ -76,7 +76,7 @@ categories: xinapse TTS
   </tr>
 </table>
 <table align="left">
-  2-2. Kor to Eng
+  2-2. Kor to Eng<br>
     Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.
   <tr>      
     <td align="center">Baseline </td>
