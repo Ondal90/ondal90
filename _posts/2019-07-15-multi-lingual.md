@@ -36,8 +36,9 @@ categories: xinapse TTS
 </head>
 <h3>본 샘플들은 연구용입니다.</h3>
 <hr>
-<h2 align="left">1. Speaker embedding at differen position</h2>
+<h2 align="left">1. Original language</h2>
 <table align="left">
+  <caption align="left">1. Eng to Eng </caption>
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
@@ -47,3 +48,4 @@ categories: xinapse TTS
     <td align="center"><audio src="/audio_samples/LJ_New_Kor.wav" controls=""></audio></td>
   </tr>
 </table>
+
