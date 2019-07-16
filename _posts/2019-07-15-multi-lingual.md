@@ -37,9 +37,10 @@ categories: xinapse TTS
 <h3>본 샘플들은 연구용입니다.</h3>
 <hr>
 <h3 align="left">1. Original language</h3>
-  1-1. Eng
+  1-1. Eng<br>
+   Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.
 <table>
-  <caption align="left">Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.</caption>
+  <caption align="left">
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
@@ -49,11 +50,9 @@ categories: xinapse TTS
     <td align="center"><audio src="/audio_samples/LJ_New_Eng.wav" controls=""></audio></td>
   </tr>
 </table>
+  1-2. Kor
+    Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?
 <table>
-  <caption align="left">1-2. Kor</caption>
-  <tr>
-    <td>Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</td>
-  </tr>
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
@@ -64,11 +63,9 @@ categories: xinapse TTS
   </tr>
 </table>
 <h3 align="left">2. Transfer language</h3>
+  2-1. Eng to Kor
+    Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?
 <table>
-  <caption align="left">2-1. Eng to Kor</caption>
-  <tr>
-    <td>Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</td>
-  </tr>
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
@@ -79,10 +76,8 @@ categories: xinapse TTS
   </tr>
 </table>
 <table align="left">
-  <caption align="left">2-2. Kor to Eng</caption>
-  <tr>
-    <td>Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.</td>
-  </tr>
+  2-2. Kor to Eng
+    Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
