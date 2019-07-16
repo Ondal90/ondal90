@@ -3,6 +3,15 @@ Title: "multi-lingual"
 date: 2019-07-15 15:40:40 -0400
 categories: xinapse TTS
 ---
+<style>
+  table, th, td {
+    border: 1px solid #bcbcbc;
+  }
+  table {
+    width: 600px;
+  }
+</style>
+
 <br>
 <h3>본 샘플들은 연구용입니다.</h3>
 <hr>
