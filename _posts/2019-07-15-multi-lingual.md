@@ -37,11 +37,9 @@ categories: xinapse TTS
 <h3>본 샘플들은 연구용입니다.</h3>
 <hr>
 <h3 align="left">1. Original language</h3>
+  1-1. Eng
 <table>
-  <caption align="left">1-1. Eng</caption>
-  <tr>
-    <td>Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.</td>
-  </tr>
+  <caption align="left">Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.</caption>
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
