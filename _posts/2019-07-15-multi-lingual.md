@@ -31,7 +31,8 @@ categories: xinapse TTS
             <td align="center" width=400><audio src="/audio_samples/KSS_Baseline_Kor.wav"" controls=""></audio></td>
             <td align="center" width=400><audio src="/audio_samples/KSS_New_Kor.wav" controls=""></audio></td>
           </tr>
-    </table>      
+    </table>
+  </blockquote>
 
 <h2 align="left">transfer language</h2>
 <div style="height: 420px">
