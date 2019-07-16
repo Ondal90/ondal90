@@ -39,11 +39,11 @@ categories: xinapse TTS
 <h2 align="left">1. Speaker embedding at differen position</h2>
 <table align="left">
   <tr>      
-    <td align="center" width=400>Baseline </td>
-    <td align="center" width=400>Advanced </td>
+    <td align="center">Baseline </td>
+    <td align="center">Advanced </td>
   </tr>
   <tr>
-    <td align="center" width=400><audio src="/audio_samples/LJ_Baseline_Kor.wav" controls=""></audio></td>
-    <td align="center" width=400><audio src="/audio_samples/LJ_New_Kor.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/LJ_Baseline_Kor.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/LJ_New_Kor.wav" controls=""></audio></td>
   </tr>
 </table>
