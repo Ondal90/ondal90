@@ -60,6 +60,7 @@ character embedding + attention 수정 !!
     <td align="center"><audio src="/audio_samples/KSS_New_Eng.wav" controls=""></audio></td>
   </tr>
 </table>
+
   2. 박원순 시장님 + Vocoder
 <table>
   <tr>      
