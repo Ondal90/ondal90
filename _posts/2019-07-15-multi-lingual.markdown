@@ -18,7 +18,7 @@ character embedding + attention 수정 !!
   </tr>
   <tr>
     <td align="center"><audio src="/audio_samples/LJ_Baseline_Eng.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/LJ_New_Eng2.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/LJ_New_Eng.wav" controls=""></audio></td>
   </tr>
 </table>
   1-2. Kor<br>
@@ -43,7 +43,7 @@ character embedding + attention 수정 !!
   </tr>
   <tr>
     <td align="center"><audio src="/audio_samples/LJ_Baseline_Kor.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/LJ_New_Kor.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/LJ_New_Kor2.wav" controls=""></audio></td>
   </tr>
 </table>
 
