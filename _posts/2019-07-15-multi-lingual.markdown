@@ -49,6 +49,7 @@ character embedding + attention 수정 !!
 
   2-2. Kor to Eng<br>
     <I><span style="color:#92B3B7">Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.</span></I>
+  1. KSS datasets
 <table>
   <tr>      
     <td align="center">Baseline </td>
@@ -57,5 +58,16 @@ character embedding + attention 수정 !!
   <tr>
     <td align="center"><audio src="/audio_samples/KSS_Baseline_Eng.wav" controls=""></audio></td>
     <td align="center"><audio src="/audio_samples/KSS_New_Eng.wav" controls=""></audio></td>
+  </tr>
+</table>
+  2. 박원순 시장님 + Vocoder
+<table>
+  <tr>      
+    <td align="center">Baseline </td>
+    <td align="center">Advanced </td>
+  </tr>
+  <tr>
+    <td align="center"><audio src="/audio_samples/PARK_Baseline_Eng.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/PARK_New_Eng.wav" controls=""></audio></td>
   </tr>
 </table>
