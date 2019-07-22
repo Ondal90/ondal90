@@ -67,7 +67,7 @@ character embedding + attention 수정 !!
     <td align="center">Advanced </td>
   </tr>
   <tr>
-    <td align="center"><audio src="/audio_samples/PARK_Baseline_Eng.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/PARK_Baseline_Eng2.wav" controls=""></audio></td>
     <td align="center"><audio src="/audio_samples/PARK_New_Eng.wav" controls=""></audio></td>
   </tr>
 </table>
