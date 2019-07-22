@@ -57,7 +57,7 @@ character embedding + attention 수정 !!
   </tr>
   <tr>
     <td align="center"><audio src="/audio_samples/KSS_Baseline_Eng.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/KSS_New_Eng.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/KSS_New_Eng2.wav" controls=""></audio></td>
   </tr>
 </table>
   박원순 시장님 + Vocoder
