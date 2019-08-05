@@ -89,3 +89,14 @@ character embedding + attention 수정 !!
   </tr>
 </table>
 
+  네오사피엔스 샘플 
+<table>
+  <tr>      
+    <td align="center">Neo</td>
+    <td align="center">xinapse </td>
+  </tr>
+  <tr>
+    <td align="center"><audio src="/audio_samples/Neo_trump.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/xinapse_LJ.wav" controls=""></audio></td>
+  </tr>
+</table>
