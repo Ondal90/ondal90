@@ -15,10 +15,12 @@ character embedding + attention 수정 !!
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
+    <td align="center">Cross </td>
   </tr>
   <tr>
     <td align="center"><audio src="/audio_samples/LJ_Baseline_Eng.wav" controls=""></audio></td>
     <td align="center"><audio src="/audio_samples/LJ_New_Eng.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/LJ_Cross_Eng.wav" controls=""></audio></td>
   </tr>
 </table>
   1-2. Kor<br>
@@ -27,10 +29,12 @@ character embedding + attention 수정 !!
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
+     <td align="center">Cross </td>
   </tr>
   <tr>
     <td align="center"><audio src="/audio_samples/KSS_Baseline_Kor.wav" controls=""></audio></td>
     <td align="center"><audio src="/audio_samples/KSS_New_Kor.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/KSS_Cross_Kor.wav" controls=""></audio></td>
   </tr>
 </table>
 <h3 align="left">2. Transfer language</h3>
@@ -40,10 +44,12 @@ character embedding + attention 수정 !!
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
+    <td align="center">Cross </td>
   </tr>
   <tr>
     <td align="center"><audio src="/audio_samples/LJ_Baseline_Kor.wav" controls=""></audio></td>
     <td align="center"><audio src="/audio_samples/LJ_New_Kor2.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/LJ_Cross_Kor.wav" controls=""></audio></td>
   </tr>
 </table>
 
@@ -54,10 +60,12 @@ character embedding + attention 수정 !!
   <tr>      
     <td align="center">Baseline </td>
     <td align="center">Advanced </td>
+     <td align="center">Cross </td>
   </tr>
   <tr>
     <td align="center"><audio src="/audio_samples/KSS_Baseline_Eng.wav" controls=""></audio></td>
     <td align="center"><audio src="/audio_samples/KSS_New_Eng2.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/KSS_Cross_Eng.wav" controls=""></audio></td>
   </tr>
 </table>
   박원순 시장님 + Vocoder
@@ -71,3 +79,13 @@ character embedding + attention 수정 !!
     <td align="center"><audio src="/audio_samples/PARK_New_Eng.wav" controls=""></audio></td>
   </tr>
 </table>
+  버그 !!
+<table>
+  <tr>      
+    <td align="center">Bug</td>
+  </tr>
+  <tr>
+    <td align="center"><audio src="/audio_samples/Bug issue.wav" controls=""></audio></td>
+  </tr>
+</table>
+
