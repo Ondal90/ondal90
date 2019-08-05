@@ -79,7 +79,7 @@ character embedding + attention 수정 !!
     <td align="center"><audio src="/audio_samples/PARK_New_Eng.wav" controls=""></audio></td>
   </tr>
 </table>
-  버그 !!
+  버그 발생!!
 <table>
   <tr>      
     <td align="center">Bug</td>
