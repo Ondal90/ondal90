@@ -6,7 +6,7 @@ categories: xinapse TTS
 ---
 
 
-<h3>본 샘플들은 연구용입니다. 감정이 들어간 audio datasets을 이용하여 VAE-tacotron 적용.</h3>
+<h3>본 샘플들은 연구용입니다. 감정이 들어간 한국어 datasets을 이용하여 VAE-tacotron 적용.</h3>
 <hr>
 <h3 align="left">VAE tacotron.</h3>
   1-1. 화남<br>
