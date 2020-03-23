@@ -45,4 +45,15 @@ categories: xinapse TTS
     <td align="center"><audio src="/audio_samples/synthesis3.wav" controls=""></audio></td>
   </tr>
 </table>
-
+  1-4. 보통<br>
+    <I><span style="color:#92B3B7">Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</span></I>
+<table>
+  <tr>      
+    <td align="center">Reference Audio </td>
+    <td align="center">Synthesis Audio </td>
+  </tr>
+  <tr>
+    <td align="center"><audio src="/audio_samples/reference4.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis4.wav" controls=""></audio></td>
+  </tr>
+</table>
