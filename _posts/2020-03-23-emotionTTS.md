@@ -17,8 +17,8 @@ categories: xinapse TTS
     <td align="center">Synthesis Audio </td>
   </tr>
   <tr>
-    <td align="center"><audio src="/audio_samples/reference.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/synthesis.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/reference_0.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis_0.wav" controls=""></audio></td>
   </tr>
 </table>
   1-2. 실망<br>
@@ -29,8 +29,8 @@ categories: xinapse TTS
     <td align="center">Synthesis Audio </td>
   </tr>
   <tr>
-    <td align="center"><audio src="/audio_samples/reference2.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/synthesis2.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/reference-3000.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis-3000.wav" controls=""></audio></td>
   </tr>
 </table>
   1-3. 공포<br>
@@ -41,11 +41,11 @@ categories: xinapse TTS
     <td align="center">Synthesis Audio </td>
   </tr>
   <tr>
-    <td align="center"><audio src="/audio_samples/reference3.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/synthesis3.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/reference-6000.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis-6000.wav" controls=""></audio></td>
   </tr>
 </table>
-  1-4. 보통<br>
+  1-4. 기쁨<br>
     <I><span style="color:#92B3B7">Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</span></I>
 <table>
   <tr>      
@@ -53,7 +53,43 @@ categories: xinapse TTS
     <td align="center">Synthesis Audio </td>
   </tr>
   <tr>
-    <td align="center"><audio src="/audio_samples/reference4.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/synthesis4.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/reference-9000.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis-9000.wav" controls=""></audio></td>
+  </tr>
+</table>
+  1-5. 보통<br>
+    <I><span style="color:#92B3B7">Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</span></I>
+<table>
+  <tr>      
+    <td align="center">Reference Audio </td>
+    <td align="center">Synthesis Audio </td>
+  </tr>
+  <tr>
+    <td align="center"><audio src="/audio_samples/reference-12000.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis-12000.wav" controls=""></audio></td>
+  </tr>
+</table>
+  1-6. 슬픔<br>
+    <I><span style="color:#92B3B7">Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</span></I>
+<table>
+  <tr>      
+    <td align="center">Reference Audio </td>
+    <td align="center">Synthesis Audio </td>
+  </tr>
+  <tr>
+    <td align="center"><audio src="/audio_samples/reference-15000.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis-15000.wav" controls=""></audio></td>
+  </tr>
+</table>
+  1-7. 놀람<br>
+    <I><span style="color:#92B3B7">Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</span></I>
+<table>
+  <tr>      
+    <td align="center">Reference Audio </td>
+    <td align="center">Synthesis Audio </td>
+  </tr>
+  <tr>
+    <td align="center"><audio src="/audio_samples/reference-18000.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis-18000.wav" controls=""></audio></td>
   </tr>
 </table>
