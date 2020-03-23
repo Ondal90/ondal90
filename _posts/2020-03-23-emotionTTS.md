@@ -29,8 +29,8 @@ categories: xinapse TTS
     <td align="center">Synthesis Audio </td>
   </tr>
   <tr>
-    <td align="center"><audio src="/audio_samples/reference-3000.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/synthesis-3000.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/reference_3000.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis_3000.wav" controls=""></audio></td>
   </tr>
 </table>
   1-3. 공포<br>
@@ -41,8 +41,8 @@ categories: xinapse TTS
     <td align="center">Synthesis Audio </td>
   </tr>
   <tr>
-    <td align="center"><audio src="/audio_samples/reference-6000.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/synthesis-6000.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/reference_6000.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis_6000.wav" controls=""></audio></td>
   </tr>
 </table>
 </table>
@@ -54,8 +54,8 @@ categories: xinapse TTS
     <td align="center">Synthesis Audio </td>
   </tr>
   <tr>
-    <td align="center"><audio src="/audio_samples/reference-13087.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/synthesis-13087.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/reference_13087.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis_13087.wav" controls=""></audio></td>
   </tr>
 </table>
   1-5. 슬픔<br>
@@ -66,8 +66,8 @@ categories: xinapse TTS
     <td align="center">Synthesis Audio </td>
   </tr>
   <tr>
-    <td align="center"><audio src="/audio_samples/reference-16087.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/synthesis-16087.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/reference_16087.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis_16087.wav" controls=""></audio></td>
   </tr>
 </table>
   1-6. 놀람<br>
@@ -78,7 +78,7 @@ categories: xinapse TTS
     <td align="center">Synthesis Audio </td>
   </tr>
   <tr>
-    <td align="center"><audio src="/audio_samples/reference-19087.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/synthesis-19087.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/reference_19087.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis_19087.wav" controls=""></audio></td>
   </tr>
 </table>
