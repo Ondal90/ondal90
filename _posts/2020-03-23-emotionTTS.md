@@ -45,7 +45,8 @@ categories: xinapse TTS
     <td align="center"><audio src="/audio_samples/synthesis-6000.wav" controls=""></audio></td>
   </tr>
 </table>
-  1-4. 기쁨<br>
+</table>
+  1-4. 보통<br>
     <I><span style="color:#92B3B7">Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</span></I>
 <table>
   <tr>      
@@ -53,11 +54,11 @@ categories: xinapse TTS
     <td align="center">Synthesis Audio </td>
   </tr>
   <tr>
-    <td align="center"><audio src="/audio_samples/reference-9000.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/synthesis-9000.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/reference-13087.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis-13087.wav" controls=""></audio></td>
   </tr>
 </table>
-  1-5. 보통<br>
+  1-5. 슬픔<br>
     <I><span style="color:#92B3B7">Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</span></I>
 <table>
   <tr>      
@@ -65,11 +66,11 @@ categories: xinapse TTS
     <td align="center">Synthesis Audio </td>
   </tr>
   <tr>
-    <td align="center"><audio src="/audio_samples/reference-12000.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/synthesis-12000.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/reference-16087.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis-16087.wav" controls=""></audio></td>
   </tr>
 </table>
-  1-6. 슬픔<br>
+  1-6. 놀람<br>
     <I><span style="color:#92B3B7">Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</span></I>
 <table>
   <tr>      
@@ -77,19 +78,7 @@ categories: xinapse TTS
     <td align="center">Synthesis Audio </td>
   </tr>
   <tr>
-    <td align="center"><audio src="/audio_samples/reference-15000.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/synthesis-15000.wav" controls=""></audio></td>
-  </tr>
-</table>
-  1-7. 놀람<br>
-    <I><span style="color:#92B3B7">Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</span></I>
-<table>
-  <tr>      
-    <td align="center">Reference Audio </td>
-    <td align="center">Synthesis Audio </td>
-  </tr>
-  <tr>
-    <td align="center"><audio src="/audio_samples/reference-18000.wav" controls=""></audio></td>
-    <td align="center"><audio src="/audio_samples/synthesis-18000.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/reference-19087.wav" controls=""></audio></td>
+    <td align="center"><audio src="/audio_samples/synthesis-19087.wav" controls=""></audio></td>
   </tr>
 </table>
