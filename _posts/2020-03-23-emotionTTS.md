@@ -6,11 +6,11 @@ categories: xinapse TTS
 ---
 
 
-<h3>본 샘플들은 연구용입니다.</h3>
+<h3>본 샘플들은 연구용입니다. 감정이 들어간 audio datasets을 이용하여 VAE-tacotron 적용.</h3>
 <hr>
-<h3 align="left">1. Original language</h3>
-  1-1. Eng<br>
-   <I><span style="color:#92B3B7">Text: We present a multispeaker, multilingual text-to-speech synthesis model based on Tacotron.</span></I>
+<h3 align="left">VAE tacotron.</h3>
+  1-1. 화남<br>
+   <I><span style="color:#92B3B7">Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</span></I>
 <table>
   <tr>      
     <td align="center">Reference Audio </td>
@@ -21,7 +21,7 @@ categories: xinapse TTS
     <td align="center"><audio src="/audio_samples/synthesis.wav" controls=""></audio></td>
   </tr>
 </table>
-  1-2. Kor<br>
+  1-2. 실망<br>
   <I><span style="color:#92B3B7">Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</span></I>
 <table>
   <tr>      
@@ -33,8 +33,7 @@ categories: xinapse TTS
     <td align="center"><audio src="/audio_samples/synthesis2.wav" controls=""></audio></td>
   </tr>
 </table>
-<h3 align="left">2. Transfer language</h3>
-  2-1. Eng to Kor<br>
+  1-3. 공포<br>
     <I><span style="color:#92B3B7">Text: 제가 이번에 국내 최고 수준의 인공지능 스타트업 자이냅스를 방문했는데요?</span></I>
 <table>
   <tr>      
