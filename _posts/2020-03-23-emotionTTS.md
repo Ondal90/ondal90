@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posthttps://github.com/Ondal90/ondal90.github.io/blob/master/_posts/emotionTTS.md
 Title: "emotionTTS"
 date: 2019-07-15 15:40:40 -0400
 categories: xinapse TTS
